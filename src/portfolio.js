@@ -419,15 +419,15 @@ const certifications = {
       alt_name: "Stanford University",
       color_code: "#8C151599",
     },
-    // {
-    //   title: "Deep Learning",
-    //   subtitle: "- Andrew Ng",
-    //   logo_path: "deeplearning_ai_logo.png",
-    //   certificate_link:
-    //     "https://www.coursera.org/account/accomplishments/specialization/H8CPSFXAJD2G",
-    //   alt_name: "deeplearning.ai",
-    //   color_code: "#00000099",
-    // },
+    {
+      title: "Python Bootcamp",
+      subtitle: "Udemy",
+      logo_path: "deeplearning_ai_logo.png",
+      certificate_link:
+        "https://www.udemy.com/certificate/UC-13a000f4-fbce-4fd7-9542-91d97cd6c617/",
+      alt_name: "deeplearning.ai",
+      color_code: "#00000099",
+    },
     // {
     //   title: "ML on GCP",
     //   subtitle: "- GCP Training",
