@@ -139,6 +139,7 @@ fetch(baseUrl, {
   body: JSON.stringify(query_pr),
 })
   .then((response) => response.text())
+
   .then((txt) => {
     const data = JSON.parse(txt);
     var cropped = { data: [] };

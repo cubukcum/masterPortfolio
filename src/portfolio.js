@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Mehmet Sait Cubukcu Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "http://cubukcum.githob.io/",
   },
 };
 
@@ -529,56 +529,56 @@ const experience = {
     "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
   header_image_path: "experience.svg",
   sections: [
-    // {
-    //   title: "Work",
-    //   work: true,
-    //   experiences: [
-    //     {
-    //       title: "Software Developer Intern",
-    //       company: "Vizyoner Genc",
-    //       company_url: "https://vizyonergenc.com/",
-    //       logo_path: "tiktok_logo.png",
-    //       duration: "June 2023 - Aug 2023",
-    //       location: "Ankara, Odtu Teknokent",
-    //       description:
-    //         "Improving ads ranking models on the core TikTok product. Experience working on modeling two-tower architectures like DeepFM, Wide & deep learning, etc. Working on Large Language Models (LLM) pretraining and Large Multi-modal Model (LMM) finetuning strategies.",
-    //       color: "#000000",
-    //     },
-    //     {
-    //       title: "Fullstack Developer Intern",
-    //       company: "Parts-Soft",
-    //       company_url: "https://partssoft.nl/",
-    //       logo_path: "legato_logo.png",
-    //       duration: "June 2022 - Aug 2022",
-    //       location: "Konya, Teknokent",
-    //       description:
-    //         "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
-    //       color: "#0879bf",
-    //     },
-    //     {
-    //       title: "Android and ML Developer",
-    //       company: "Muffito Incorporation",
-    //       company_url: "https://www.linkedin.com/company/muffito-inc/about/",
-    //       logo_path: "muffito_logo.png",
-    //       duration: "May 2018 - Oct 2018",
-    //       location: "Pune, Maharashtra",
-    //       description:
-    //         "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
-    //       color: "#9b1578",
-    //     },
-    //     {
-    //       title: "Android Developer",
-    //       company: "FreeCopy Pvt. Ltd.",
-    //       company_url: "https://www.linkedin.com/company/freecopy/about/",
-    //       logo_path: "freecopy_logo.png",
-    //       duration: "Nov 2017 - Dec 2017",
-    //       location: "Ahmedabad, Gujarat",
-    //       description:
-    //         "FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
-    //       color: "#fc1f20",
-    //     },
-    //   ],
-    // },
+    {
+      title: "Work",
+      work: true,
+      experiences: [
+        {
+          title: "Software Developer Intern",
+          company: "Vizyoner Genc",
+          company_url: "https://vizyonergenc.com/",
+          logo_path: "tiktok_logo.png",
+          duration: "June 2023 - Aug 2023",
+          location: "Ankara, Odtu Teknokent",
+          description:
+            "Improving ads ranking models on the core TikTok product. Experience working on modeling two-tower architectures like DeepFM, Wide & deep learning, etc. Working on Large Language Models (LLM) pretraining and Large Multi-modal Model (LMM) finetuning strategies.",
+          color: "#000000",
+        },
+        {
+          title: "Fullstack Developer Intern",
+          company: "Parts-Soft",
+          company_url: "https://partssoft.nl/",
+          logo_path: "legato_logo.png",
+          duration: "June 2022 - Aug 2022",
+          location: "Konya, Teknokent",
+          description:
+            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
+          color: "#0879bf",
+        },
+        {
+          title: "Android and ML Developer",
+          company: "Muffito Incorporation",
+          company_url: "https://www.linkedin.com/company/muffito-inc/about/",
+          logo_path: "muffito_logo.png",
+          duration: "May 2018 - Oct 2018",
+          location: "Pune, Maharashtra",
+          description:
+            "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
+          color: "#9b1578",
+        },
+        {
+          title: "Android Developer",
+          company: "FreeCopy Pvt. Ltd.",
+          company_url: "https://www.linkedin.com/company/freecopy/about/",
+          logo_path: "freecopy_logo.png",
+          duration: "Nov 2017 - Dec 2017",
+          location: "Ahmedabad, Gujarat",
+          description:
+            "FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
+          color: "#fc1f20",
+        },
+      ],
+    },
     {
       title: "Internships",
       experiences: [
@@ -696,31 +696,31 @@ const publicationsHeader = {
   avatar_image_path: "projects_image.svg",
 };
 
-// const publications = {
-//   data: [
-//     {
-//       id: "neuro-symbolic-sudoku-solver",
-//       name: "Neuro-Symbolic Sudoku Solver",
-//       createdAt: "2023-07-02T00:00:00Z",
-//       description: "Paper published in KDD KiML 2023",
-//       url: "https://arxiv.org/abs/2307.00653",
-//     },
-//     {
-//       id: "mdp-diffusion",
-//       name: "MDP-Diffusion",
-//       createdAt: "2023-09-19T00:00:00Z",
-//       description: "Blog published in Paperspace",
-//       url: "https://blog.paperspace.com/mdp-diffusion/",
-//     },
-//     {
-//       id: "consistency-models",
-//       name: "Consistency Models",
-//       createdAt: "2023-10-12T00:00:00Z",
-//       description: "Blog published in Paperspace",
-//       url: "https://blog.paperspace.com/consistency-models/",
-//     },
-//   ],
-// };
+const publications = {
+  data: [
+    // {
+    //   id: "neuro-symbolic-sudoku-solver",
+    //   name: "Neuro-Symbolic Sudoku Solver",
+    //   createdAt: "2023-07-02T00:00:00Z",
+    //   description: "Paper published in KDD KiML 2023",
+    //   url: "https://arxiv.org/abs/2307.00653",
+    // },
+    // {
+    //   id: "mdp-diffusion",
+    //   name: "MDP-Diffusion",
+    //   createdAt: "2023-09-19T00:00:00Z",
+    //   description: "Blog published in Paperspace",
+    //   url: "https://blog.paperspace.com/mdp-diffusion/",
+    // },
+    // {
+    //   id: "consistency-models",
+    //   name: "Consistency Models",
+    //   createdAt: "2023-10-12T00:00:00Z",
+    //   description: "Blog published in Paperspace",
+    //   url: "https://blog.paperspace.com/consistency-models/",
+    // },
+  ],
+};
 
 // Contact Page
 const contactPageData = {
@@ -766,6 +766,6 @@ export {
   experience,
   projectsHeader,
   publicationsHeader,
-  // publications,
+  publications,
   contactPageData,
 };
