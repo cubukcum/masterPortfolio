@@ -392,9 +392,22 @@ const degrees = {
       ],
       website_link: "https://www.ktun.edu.tr/en/Universite/AnaSayfa",
     },
+    {
+      title: "Houston Community College",
+      subtitle: "BS in Computer Science",
+      logo_path: "hcc.png",
+      alt_name: "Houston Community College",
+      duration: "2016 - 2019",
+      descriptions: [
+        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
+        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
+        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
+      ],
+      website_link: "https://www.hccs.edu",
+    },
     // {
     //   title: "Indiana University Bloomington",
-    //   subtitle: "M.S. in Computer Science",
+    //   subtitle: "AS in Computer Science",
     //   logo_path: "iu_logo.png",
     //   alt_name: "Indiana University Bloomington",
     //   duration: "2021 - 2023",
@@ -586,7 +599,7 @@ const experience = {
           title: "Software Development Intern",
           company: "Vizyoner Genc",
           company_url: "https://www.vizyonergenc.com",
-          logo_path: "tiktok_logo.png",
+          logo_path: "vg_logo.png",
           duration: "Jul 2023 - Aug 2023",
           location: "Ankara, Odtu Teknokent",
           description:
@@ -597,7 +610,7 @@ const experience = {
           title: "Fullstack Developer Intern",
           company: "Parts-Soft",
           company_url: "https://www.partssoft.nl/",
-          logo_path: "delhivery_logo.png",
+          logo_path: "part_soft_logo.jpeg",
           duration: "Jul 2022 - Aug 2022",
           location: "Konya, Teknokent",
           description:
