@@ -371,7 +371,7 @@ const degrees = {
     {
       title: "Houston Community College",
       subtitle: "AS in Computer Science",
-      logo_path: "hcc.png",
+      logo_path: "hcc_logo.png",
       alt_name: "Houston Community College",
       duration: "2016 - 2019",
       descriptions: [
